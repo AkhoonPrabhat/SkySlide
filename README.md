@@ -92,9 +92,11 @@ Make sure you have flutter setup done beforehand.
 * Ujjwal Makhija
    
 ## GALLERY
-<img src="https://github.com/AkhoonPrabhat/SkySlide/assets/161132011/97ea629b-9038-458c-a457-94c36bb6a6e7" width="420" height="190">
-<img src="https://github.com/AkhoonPrabhat/SkySlide/assets/161132011/f4024022-5719-4623-89f1-c8a823ad6585" width="420" height="190">
-<img src="https://github.com/AkhoonPrabhat/SkySlide/assets/161132011/9bfbbc24-3a71-40be-87da-cade1002b412" width="420" height="190">
-<img src="https://github.com/AkhoonPrabhat/SkySlide/assets/161132011/d93e0dca-fd3c-4baf-b268-9909beaae390" width="420" height="190">
-<img src="https://github.com/AkhoonPrabhat/SkySlide/assets/161132011/1d2a2855-25e2-4504-9b42-4cde56391eb3" width="420" height="190">
-<img src="https://github.com/AkhoonPrabhat/SkySlide/assets/161132011/51498013-c89e-4d69-9192-7b02301c1899" width="420" height="190">
+
+<img src="https://github.com/AkhoonPrabhat/SkySlide/assets/161132011/abc8be4c-3415-430b-aec1-616b55bc8b89" width="420" height="230">
+<img src="https://github.com/AkhoonPrabhat/SkySlide/assets/161132011/0ea9c13f-b826-49a7-8eec-e46e00cc033c" width="420" height="230">
+<img src="https://github.com/AkhoonPrabhat/SkySlide/assets/161132011/ae78f8f1-3876-4667-bd5d-9774173c55b6" width="420" height="230">
+<img src="https://github.com/AkhoonPrabhat/SkySlide/assets/161132011/a20c8b02-3567-460a-b84e-c25fde9f45a7" width="420" height="230">
+<img src="https://github.com/AkhoonPrabhat/SkySlide/assets/161132011/b5d91fba-9e7b-4c04-a127-b5db170e928b" width="420" height="230">
+<img src="https://github.com/AkhoonPrabhat/SkySlide/assets/161132011/1e474b3c-8133-4d2f-96c9-4507683a3feb" width="420" height="230">
+<img src="https://github.com/AkhoonPrabhat/SkySlide/assets/161132011/ffca6cbd-af6b-4481-a347-d2b9656dfbec" width="420" height="230"> 
