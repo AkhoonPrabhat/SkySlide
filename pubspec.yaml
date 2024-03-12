@@ -1,0 +1,134 @@
+name: SkySlide
+description: "A new Flutter project."
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+  flame_forge2d: ^0.17.0
+  flame: ^1.16.0
+  fast_noise: ^2.0.0
+  provider: ^6.1.2
+  carousel_slider: ^4.2.1
+  font_awesome_flutter: ^10.7.0
+  isar: ^3.1.0+1
+  path_provider: ^2.1.2
+  isar_flutter_libs: ^3.1.0+1
+  flame_audio: ^2.10.0
+  audioplayers: ^5.2.1
+
+dev_dependencies:
+  isar_generator: ^3.1.0+1
+  flutter_launcher_icons: ^0.13.1
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+  build_runner: ^2.4.8
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon/icon.png"
+  min_sdk_android: 21
+
+flutter:
+  uses-material-design: true
+
+  fonts:
+    - family: Luckiest
+      fonts:
+        - asset: assets/font/LuckiestGuy-Regular.ttf
+
+  assets:
+    - assets/icon/icon.png
+    - assets/images/coin.png
+    - assets/images/trash.png
+
+    #
+    - assets/images/vehicles/wheel1.png
+    - assets/images/vehicles/wheel2.png
+
+    #controls
+    - assets/images/brake.png
+    - assets/images/speed.png
+    - assets/images/jump.png
+
+    #fuel
+    - assets/images/fuelIcons/wind.png
+    - assets/images/fuelIcons/solar.png
+    - assets/images/fuelIcons/ocean.png
+    - assets/images/fuelIcons/geothermal.png
+    - assets/images/fuelIcons/hydro.png
+    - assets/images/fuelIcons/biomass.png
+
+    #menu
+    - assets/images/upgradeicon.png
+    - assets/images/vehicleicon.png
+    - assets/images/terrainicon.png
+    - assets/images/start.png
+
+    #vehicles
+    - assets/images/vehicles/cybertruck.png
+    - assets/images/vehicles/monstertruck.png
+    - assets/images/vehicles/pickuptruck.png
+    - assets/images/vehicles/trashtruck.png
+
+    #test
+    - assets/images/test.jpg
+
+    #music
+    - assets/audio/coinCollected.mp3
+    - assets/audio/jump.mp3
+    - assets/audio/backgroundAudio.mp3
+
+    #themes
+    - assets/images/terrains/biomass/farmhouse.png
+    - assets/images/terrains/biomass/rock.png
+
+    - assets/images/terrains/geothermal/well.png
+
+    #
+    - assets/images/terrains/hydro/boat.png
+    - assets/images/terrains/hydro/lifebuoy.png
+
+    #
+    - assets/images/terrains/ocean/crab.png
+    - assets/images/terrains/ocean/dolphin.png
+    - assets/images/terrains/ocean/octopus.png
+    - assets/images/terrains/ocean/seaweed.png
+    - assets/images/terrains/ocean/shrub.png
+    - assets/images/terrains/ocean/submarine.png
+    - assets/images/terrains/ocean/surf2.png
+
+    #
+    - assets/images/terrains/solar/panel1.png
+    - assets/images/terrains/solar/panel2.png
+
+    #
+    - assets/images/terrains/wind/hotairballoon1.png
+    - assets/images/terrains/wind/hotairballoon2.png
+    - assets/images/terrains/wind/windmill.png
+
+    #clouds
+    - assets/images/clouds/cloud1.png
+    - assets/images/clouds/cloud2.png
+    - assets/images/clouds/cloud3.png
+    - assets/images/clouds/cloud4.png
+    - assets/images/clouds/cloud5.png
+    - assets/images/clouds/cloud6.png
+
+    #assets
+    - assets/images/loading.gif
+
+    #vehicle bg
+    - assets/images/vehiclebg/cybertruck.png
+    - assets/images/vehiclebg/trashtruck.png
+    - assets/images/vehiclebg/pickuptruck.png
+    - assets/images/vehiclebg/monstertruck.png
